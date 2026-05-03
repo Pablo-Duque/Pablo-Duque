@@ -21,10 +21,28 @@
 <br>
 
 ## Status do meu GitHub
-  
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pablo-Duque&show_icons=true&bg_color=00000000&title_color=07c8fc&text_color=07fc75&border_color=07c8fc#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Duque&layout=compact&bg_color=00000000&title_color=07c8fc&text_color=07fc75&border_color=07c8fc#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Pablo-Duque&show_icons=true&bg_color=00000000&text_color=333&border_color=2f80ed#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Duque&layout=compact&bg_color=00000000&text_color=333&border_color=2f80ed#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-stats-roan-one.vercel.app/api?username=Pablo-Duque&show_icons=true&bg_color=00000000&title_color=07c8fc&text_color=07fc75&border_color=07c8fc"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats-roan-one.vercel.app/api?username=Pablo-Duque&show_icons=true&bg_color=00000000&text_color=333&border_color=2f80ed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-stats-roan-one.vercel.app/api?username=Pablo-Duque&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-stats-roan-one.vercel.app/api/top-langs/?username=Pablo-Duque&layout=compact&bg_color=00000000&title_color=07c8fc&text_color=07fc75&border_color=07c8fc"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats-roan-one.vercel.app/api/top-langs/?username=Pablo-Duque&layout=compact&bg_color=00000000&text_color=333&border_color=2f80ed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-stats-roan-one.vercel.app/api?username=Pablo-Duque&show_icons=true" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablo-Duque/Pablo-Duque/output/github-contribution-grid-snake-dark.svg">
